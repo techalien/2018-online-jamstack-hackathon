@@ -148,7 +148,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 1. What are you going to build?  
 Two games to demonstate JAMStack concepts
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-We are using FaunaDB 
+We are using FaunaDB, Netlify to AutoDeploy from GitHub 
 3. What is your plan to execute this idea?  
 We have divided the tasks into functional Units [DB APIs, React layout and the games.]. Each person will work on the respective feature branch, which shall be merged into **master** at milestones.  
 
