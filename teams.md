@@ -133,8 +133,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
 
 ***
-# FccFriendshipTest
-### A Simple JAMStack questions game App - More info coming soon
+# FriendsOverJAM
+### Simple set of JAMStack based games
 * Teammates:
     - Simon Xiong (@simonxcode)
     - Akhil Alluri (@techalien)
@@ -143,7 +143,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Sunday Joe (@pac_admin)
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/techalien/FccFriendshipTest)
-* Coming soon
+* FriendsOverJAM
+### Project Q&A:
+1. What are you going to build?  
+Two games to demonstate JAMStack concepts
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We are using FaunaDB 
+3. What is your plan to execute this idea?  
+We have divided the tasks into functional Units [DB APIs, React layout and the games.]. Each person will work on the respective feature branch, which shall be merged into **master** at milestones.  
 
 ***
 
